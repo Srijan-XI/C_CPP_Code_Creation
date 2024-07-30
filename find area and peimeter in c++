@@ -18,7 +18,7 @@ int main() {
  cout << "The perimeter of the rectangle is: " << p << endl;
 
 if (a>p){
-    cout<<"area is greater than perimeter"  <<endl;
+    cout<<"area is greater than perimeter" <<endl;
 }
 
 
