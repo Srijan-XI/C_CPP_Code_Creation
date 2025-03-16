@@ -1,5 +1,5 @@
                      
-<h1 align="center" style="font-weight: bold;">Project C++</h1>
+<h1 align="center" style="font-weight: bold;">C++</h1>
 
 
 <p align="center">C++ is an excellent language for a wide range of projects due to its flexibility, performance, and control. Here's a breakdown of its strengths and potential applications.</p>
