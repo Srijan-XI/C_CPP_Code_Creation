@@ -42,7 +42,7 @@ How to clone your project
 How to start your project
 
 ```bash
-git clone https://github.com/srijan1110/Project-C-plus.git
+https://github.com/Srijan-XI/Project-CPP_Code.git
 ```
  
 <h2 id="colab">🤝 Collaborators</h2>
