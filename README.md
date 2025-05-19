@@ -1,7 +1,6 @@
-                     
-<h1 align="center" style="font-weight: bold;">C++</h1>
-
-
+  <p align="center">                   
+ <img align="top" alt="cpp" width="50px" src="https://skillicons.dev/icons?i=cpp" />
+</p>
 <p align="center">C++ is an excellent language for a wide range of projects due to its flexibility, performance, and control. Here's a breakdown of its strengths and potential applications.</p>
 
 
