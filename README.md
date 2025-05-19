@@ -6,7 +6,7 @@
 
 
 <p align="center">
-<a href="https://github.com/srijan1110/Project-C-plus">📱 Visit this Project</a>
+<a href="https://github.com/Srijan-XI/Project-CPP_Code">📱 Visit this Project</a>
 </p>
  
 <h2 id="technologies">💻 Technologies</h2>
@@ -35,7 +35,7 @@ Here you list all prerequisites necessary for running your project. For example:
 
 How to clone your project
 
-```gh repo clone srijan1110/Project-C-plus ```
+```gh repo clone Srijan-XI/Project-CPP_Code ```
  
 <h3>Starting</h3>
 
