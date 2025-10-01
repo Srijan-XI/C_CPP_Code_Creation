@@ -5,7 +5,7 @@
 
 
 <p align="center">
-<a href="https://github.com/Srijan-XI/Project-CPP_Code">📱 Visit this Project</a>
+<a href="https://github.com/Srijan-XI/C_CPP_Code_Creation">📱 Visit this Project</a>
 </p>
  
 <h2 id="technologies">💻 Technologies</h2>
