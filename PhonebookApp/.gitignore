@@ -1,0 +1,101 @@
+# Build directories
+build/
+build-*/
+debug/
+release/
+
+# Qt generated files
+*.pro.user
+*.pro.user.*
+*.qm
+*.prl
+.qmake.cache
+.qmake.stash
+*.so
+*.so.*
+*.dll
+*.dylib
+
+# CMake
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Qt Creator
+*.autosave
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.a
+*.la
+*.lai
+*.so
+*.dll
+*.dylib
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Packages
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.db
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Test results
+test_detail.xml
+gtest_*.xml

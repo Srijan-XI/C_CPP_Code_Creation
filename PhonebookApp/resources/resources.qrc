@@ -1,0 +1,12 @@
+<RCC>
+<qresource prefix="/icons">
+<file>icons/phonebook.svg</file>
+<file>icons/add.svg</file>
+<file>icons/edit.svg</file>
+<file>icons/delete.svg</file>
+<file>icons/import.svg</file>
+<file>icons/export.svg</file>
+<file>icons/lock.svg</file>
+<file>icons/search.svg</file>
+</qresource>
+</RCC>

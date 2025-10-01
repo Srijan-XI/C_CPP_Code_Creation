@@ -1,0 +1,13 @@
+cmake_minimum_required(VERSION 3.22)
+project(PhonebookConsoleDemo LANGUAGES CXX)
+
+set(CMAKE_CXX_STANDARD 20)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+
+# Console demo - no Qt required
+add_executable(console_demo
+    console_demo.cpp
+    src/core/Contact_standalone.cpp
+)
+
+target_include_directories(console_demo PRIVATE src)
